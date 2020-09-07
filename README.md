@@ -1,6 +1,6 @@
 # Hey 👋
 
-[![angelenriquep' GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelenriquep)](https://github.com/Wolveix/angelenriquep)
+[![angelenriquep' GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelenriquep&include_all_commits=true&theme=radical)](https://github.com/angelenriquep)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelenriquep&layout=compact&include_all_commits=true&theme=radical)](https://github.com/angelenriquep)
 
